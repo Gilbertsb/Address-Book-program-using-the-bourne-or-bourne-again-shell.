@@ -1,0 +1,22 @@
+      Address Book Data 
+--------------------------------- ||++++++++++++|| 
+Gaga Names [Isana Gaga]
+Gaga Phone [+250] 898980
+Gaga Email [gaga@hjhj]
+################################# |=====================||
+Umuhuza Names [Aime Umuhuza]
+Umuhuza Phone [+250] 8900
+Umuhuza Email [umuhu@hjhj]
+################################# |=====================||
+Nikuze Names [Anna Nikuze]
+Nikuze Phone [+250] 8989809
+Nikuze Email [anna@jkj]
+################################# |=====================||
+Sibomana Names [SIBO Sibomana]
+Sibomana Phone [+250] 89898
+Sibomana Email [yuyu@hjhj]
+################################# |=====================||
+Mahoro Names [Eric Mahoro]
+Mahoro Phone [+250] 787898
+Mahoro Email [maho@mail.com]
+################################# |=====================||
